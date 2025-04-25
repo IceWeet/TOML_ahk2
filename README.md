@@ -9,7 +9,7 @@ _TOML.ahk 是一个用于 AutoHotkey v2 的 TOML 配置文件解析和生成工�
 ### 引入脚本
 
 ```autohotkey
-#Include <_TOML>
+#Include _TOML.ahk
 ```
 
 ### 读取 TOML 文件
