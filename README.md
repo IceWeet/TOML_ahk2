@@ -1,3 +1,5 @@
+**Read this in other languages: (English)(README_EN.md), (中文)(README.md).**
+
 # _TOML.ahk 使用说明
 
 ## 简介
